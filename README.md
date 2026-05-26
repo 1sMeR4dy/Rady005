@@ -1,15 +1,21 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left" valign="middle" style="border: none;">
-      <font size="5" color="#0E75B6"><strong>Portfolio</strong></font>
+    <td align="left" valign="middle" style="border: none; padding: 10px 0;">
+      <span style="font-size: 22px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; letter-spacing: -0.5px; color: #ffffff;">
+        Ren <span style="color: #0E75B6; font-weight: bold;">Rady</span>
+      </span>
     </td>
-    <td align="right" valign="middle" style="border: none;">
-      <font size="3">
-        <code><strong><a href="#about" style="text-decoration:none; color:#ffffff;">Home</a></strong></code>&nbsp;&nbsp;&nbsp;&nbsp;
-        <code><a href="#about" style="text-decoration:none; color:#a0a0a0;">About</a></code>&nbsp;&nbsp;&nbsp;&nbsp;
-        <code><a href="#tech-stack" style="text-decoration:none; color:#a0a0a0;">Skills</a></code>&nbsp;&nbsp;&nbsp;&nbsp;
-        <code><a href="#projects" style="text-decoration:none; color:#a0a0a0;">Projects</a></code>&nbsp;&nbsp;&nbsp;&nbsp;
-        <code><a href="#contact" style="text-decoration:none; color:#a0a0a0;">Contact</a></code>
+    <td align="right" valign="middle" style="border: none; padding: 10px 0;">
+      <font size="3" face="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+        <a href="#about" style="text-decoration: none; color: #0E75B6; font-weight: 600;">Home</a>
+        <span style="color: #33363F; margin: 0 8px;">|</span>
+        <a href="#about" style="text-decoration: none; color: #a0a0a0; font-weight: 500;">About</a>
+        <span style="color: #33363F; margin: 0 8px;">|</span>
+        <a href="#tech-stack" style="text-decoration: none; color: #a0a0a0; font-weight: 500;">Skills</a>
+        <span style="color: #33363F; margin: 0 8px;">|</span>
+        <a href="#projects" style="text-decoration: none; color: #a0a0a0; font-weight: 500;">Projects</a>
+        <span style="color: #33363F; margin: 0 8px;">|</span>
+        <a href="#contact" style="text-decoration: none; color: #a0a0a0; font-weight: 500;">Contact</a>
       </font>
     </td>
   </tr>
@@ -23,29 +29,19 @@
       <h1><font size="7">Hi, I'm <span style="color: #0E75B6;">Rady</span></font></h1>
       <h3>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&left=true&vCenter=true&width=400&lines=Backend+Engineer;Middleware+Developer;Java+Enthusiast" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&left=true&vCenter=true&width=450&lines=Java+Spring+Boot+Developer;Backend+Engineer;Middleware+Developer" alt="Typing SVG" />
         </a>
       </h3>
       <p style="color: #a0a0a0; font-size: 15px; line-height: 1.6;">
-        I build high-performance, resilient backend systems and enterprise middleware integrations. Let's design scalable architectures together.
+        I am a Java Spring Boot Developer specializing in building high-performance, resilient backend systems and enterprise middleware integrations. Let's design scalable architectures together.
       </p>
       <br/>
-      <a href="mailto:renrady2005@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Hire%20Me-0E75B6?style=for-the-badge&logoColor=white" alt="Hire Me" style="border-radius: 20px;"/>
-      </a>
-      &nbsp;
       <a href="#projects">
         <img src="https://img.shields.io/badge/%F0%9F%93%81%20View%20Work-23272F?style=for-the-badge&logoColor=white" alt="View Work" style="border-radius: 20px; border: 1px solid #0E75B6;"/>
       </a>
       <br/><br/>
       <a href="https://linkedin.com/in/ren-rady" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="https://fb.com/rady" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-      </a>
-      <a href="https://x.com/rady2005" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" width="32" height="32" alt="LinkedIn" style="vertical-align: middle;"/>
       </a>
     </td>
     <td width="45%" align="center" valign="middle" style="border: none;">
@@ -79,32 +75,33 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<table align="left">
+<table align="left" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-      <br/>Java
+    <td align="center" width="100" style="border: none; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+      <br/><font size="2" color="#a0a0a0">Java</font>
     </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-      <br/>Spring Boot
+    <td align="center" width="100" style="border: none; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+      <br/><font size="2" color="#a0a0a0">Spring Boot</font>
     </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-      <br/>PostgreSQL
+    <td align="center" width="100" style="border: none; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+      <br/><font size="2" color="#a0a0a0">PostgreSQL</font>
     </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-      <br/>Docker
+    <td align="center" width="100" style="border: none; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+      <br/><font size="2" color="#a0a0a0">Docker</font>
     </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-      <br/>Postman
+    <td align="center" width="100" style="border: none; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+      <br/><font size="2" color="#a0a0a0">Postman</font>
     </td>
   </tr>
 </table>
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
+<br/>
 
 ---
 
@@ -116,7 +113,6 @@
   <a href="https://github.com/rady005/digitalschool" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rady005&repo=digitalschool&theme=radical&hide_border=true&show_owner=true" width="48%"/>
   </a>
-
   <a href="https://github.com/rady005/PhoneShop" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rady005&repo=PhoneShop&theme=radical&hide_border=true" width="48%"/>
   </a>
