@@ -63,7 +63,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 **Current Role:** Software Developer at **SBILH Bank**
+- 🏢 **Current Role:** Software Developer at **SBI Bank**
 - 🌱 **Learning Focus:** Mastering **Microservices Architecture** & Enterprise Backend design
 - 💬 **Ask Me About:** Java ecosystem, REST APIs, and database management
 - ⚡ **Fun Fact:** I am very funny 😄 (and my code actually compiles on the first try... sometimes)
